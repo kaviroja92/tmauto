@@ -1,0 +1,4 @@
+telethon>=1.27.3
+aiosqlite>=0.18.0
+python-dateutil
+pytz
