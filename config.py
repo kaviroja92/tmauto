@@ -7,8 +7,8 @@ API_HASH = "7ff6" # replace with your API HASH
 SESSION_STRING = ""
 
 # channel IDs (use -100... for private channels)
-DUMP_CHANNEL = -1002358242291 # replace with your dumb channel id
-ARRANGE_CHANNEL = -1003197574096
+DUMP_CHANNEL = -1001 # replace with your dumb channel id
+ARRANGE_CHANNEL = -100
 
 
 # scanning behavior
@@ -35,3 +35,4 @@ MAX_MESSAGES_PER_RUN = 1000000 # set high; scanner uses checkpointing
 # Debug
 
 DRY_RUN = False
+
