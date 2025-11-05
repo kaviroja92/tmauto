@@ -2,10 +2,9 @@
 # TMAuto configuration - EDIT BEFORE RUNNING
 
 
-API_ID = 1353905 # replace with your API ID
-API_HASH = "99e809fb2995d5180ec3aeade8e47ff6" # replace with your API HASH
-SESSION_STRING = "BQAUqLEAMI5pSMBrVZ2RBZknDN7pxytkbrMHPutGlP4rNpH2iYESqIWDJUquXMQ_hF1XOuvmSYRBh6NnxpNVsIoSQ-0v2higBfmSLVIc5QepWPqgeL9hH6pZKpU7OxLZ3xT9zxsoCCPOKUugvB8td3Po8o6MEoCRNPNMLDVEM2pOAFGkYzufCXwL-RNN64juyH2qJKmzbhig58bfpty26GHhKcfOxzEO1QD1YsxC4hY-X0JEd9AONl7T9UhxXv0TAX_xmr7s_1YfoDAkPHof0rjqOf_DOU89f8bkklsZTTAwQpmxhc_ERUfdwFmCPouMzDWSlxwnzm54028KoWIlshoR1k652QAAAAA2IySKAA"
-
+API_ID = 1905 # replace with your API ID
+API_HASH = "7ff6" # replace with your API HASH
+SESSION_STRING = ""
 
 # channel IDs (use -100... for private channels)
 DUMP_CHANNEL = -1002358242291 # replace with your dumb channel id
@@ -34,4 +33,5 @@ MAX_MESSAGES_PER_RUN = 1000000 # set high; scanner uses checkpointing
 
 
 # Debug
+
 DRY_RUN = False
